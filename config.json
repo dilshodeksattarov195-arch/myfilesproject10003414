@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercave",
+        "uuid": 655488,
+        "checksum": "l83l2d"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
